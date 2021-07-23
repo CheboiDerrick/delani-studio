@@ -1,4 +1,31 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    /* margin: auto; */
+}
 
+#home{
+    background: url("../images/h_img.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    /* display: table; */
+}
+
+#scroll{
+    margin-bottom: 2%;
+}
+
+#services{
+    background: url("../images/s_image.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+    height: 50%;
+}
 .top-buffer {
      margin-top:2%; 
+}
+
+#portfolio{
+    width: 80%;
 }
