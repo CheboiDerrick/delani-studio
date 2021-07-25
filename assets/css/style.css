@@ -81,3 +81,19 @@ footer p{
 .design-detail, .development-detail, .product-detail{
   display: none;
 }
+
+#work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
+  position: relative;
+}
+
+#overlay1, #overlay2, #overlay3, #overlay4, #overlay5, #overlay6, #overlay7, #overlay8 {
+  display:none;
+  width: 80%;
+  height: 80%;
+  margin: 8% 6%;
+  position: absolute;
+  border: 2px solid white;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  /* text-align: center; */
+}
