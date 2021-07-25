@@ -83,5 +83,21 @@ $(document).ready(function () {
             $("#overlay8").empty()
         })
     })
-    
 })
+function validation() {
+    let name=$("#name").val();
+    let email=$("#email").val();
+    let message=$("#message").val();
+
+    if(name=="") {
+        alert("Please enter your name")
+    } else if (email=="") {
+        alert("Please enter a valid email")
+    }
+    else if(message==""){
+        alert("Please enter a message")
+    }
+    else {
+        alert(name + ", your message has been received")
+    }
+}
