@@ -21,7 +21,7 @@ The website is divided into various sections as shown below:
 * Open the project using your preferred code editor preferably Visual Studio Code
 * Open the project using a web browser preferably Google Chrome
 ## Known Bugs
-THere are no known bugs so far but feel free to notify of me through the contacts below
+There are no known bugs so far.
 ## Technologies Used
 The website has been developed using the following:
 - HTML
